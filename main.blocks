@@ -1,1 +1,26 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="#/?/4zZ8G*iSjkVuO!bu" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="hN)h(Z_0FxV,1;;3($mT">mainPlayer</variable><variable type="KIND_SpriteKind" id="B[rOjxR6/ecfvAelj([R">Player</variable><variable type="KIND_SpriteKind" id="@~HUC?#e0Z2ih`B}gSS3">Projectile</variable><variable type="KIND_SpriteKind" id=",lU1LZN8!Uj)+K@b|u3a">Food</variable><variable type="KIND_SpriteKind" id="m{K6244+sfcGHKOhFLAx">Enemy</variable></variables><block type="pxt-on-start" id="#/?/4zZ8G*iSjkVuO!bu" x="34" y="48"><statement name="HANDLER"><block type="variables_set" id="sExD(H_6KdU(KJ^7idwx"><field name="VAR" id="hN)h(Z_0FxV,1;;3($mT">mainPlayer</field><value name="VALUE"><shadow type="math_number" id="B*WAxrl/br[Zw$=|R%kj"><field name="NUM">0</field></shadow><block type="spritescreate" id="fPlYzwuKHsns/.,u?!u3"><value name="img"><shadow type="screen_image_picker" id="h,ywttHgizNVP}!Y+~SY"><field name="img">img`
+.cccccccccccccc.
+cb777777777777bc
+c77777777777777c
+c77777777777777c
+c77777777777777c
+c77777777777777c
+c77777777777777c
+c77777777777777c
+c76666666666667c
+c66666666666666c
+c67777777777776c
+c6c666c66c666c6c
+f6c666cddc666c6f
+f6c6666cc6666c6f
+f6cccccccccccc6f
+f66666666666666f
+f67777777777776f
+f6c666c66c666c6f
+f6c666cddc666c6f
+f6c6666cc6666c6f
+f6cccccccccccc6f
+f66666666666666f
+f6ffffffffffff6f
+ffffffffffffffff
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="FIC/D*CF/FuY~5./nOd}"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="sprite_set_scale" id="yi6tMV5qPy+](^l`q,Hx"><field name="anchor">ScaleAnchor.Middle</field><value name="sprite"><block type="variables_get" id="_hp@@lfg;b}ZHVCIYd5Q"><field name="VAR" id="hN)h(Z_0FxV,1;;3($mT">mainPlayer</field></block></value><value name="value"><shadow type="math_number" id="cs3{)zJ^@c}_EMK/~1We"><field name="NUM">0.5</field></shadow></value></block></next></block></statement></block></xml>
